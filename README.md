@@ -26,7 +26,6 @@
 - **Socket.IO** – Real-time, bi-directional communication
 - **MongoDB** – NoSQL database for session management
 - **CodeMirror** – Rich, customizable code editor
-- **React.js** – Frontend user interface (optional to edit)
 - **uuid** – Unique room ID generator
 
 ---
